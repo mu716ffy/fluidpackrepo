@@ -1,0 +1,9 @@
+{
+    "name": "package_name",
+    "version": "1.0.0",
+    "files": [
+        "file1.txt",
+        "file2.txt"
+    ],
+    "dependencies": {}
+}

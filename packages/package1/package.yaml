@@ -1,6 +1,0 @@
-name: package1
-version: 1.0.0
-description: Описание пакета
-files:
-  - file1.txt
-  - file2.txt
